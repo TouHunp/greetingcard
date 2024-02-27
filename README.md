@@ -3,5 +3,6 @@
 
 *若想執行請使用nodejs架設伺服器 注意金鑰部分需要填入才可運行
 
-![Uploading image.png…]()
+
+![展示](https://github.com/TouHunp/greetingcard/assets/114973441/be4e0c62-89c3-4d88-b6a5-825b22af4ccb)
 
